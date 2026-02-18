@@ -13,7 +13,7 @@ The system allows users to create an account, log in, and receive personalized s
 - Secure data storage and retrieval using MySQL
 
 ## Technologies Used
-- Java (Servlets & JDBC)
+- Java
 - HTML
 - MySQL
 - NetBeans IDE
