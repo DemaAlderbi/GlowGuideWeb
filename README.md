@@ -32,6 +32,11 @@ The following diagram illustrates the overall architecture of the GlowGuide syst
 
 ![System Architecture](docs/architecture-diagram.png)
 
+## Database Design
+The following ER diagram illustrates the database structure and relationships between users, routines, products, quizzes, and results.
+
+![Database ER Diagram](docs/database-er-diagram.png)
+
 ## Notes
 - This project runs locally and is not deployed online.
 - Database credentials are not included for security reasons.
