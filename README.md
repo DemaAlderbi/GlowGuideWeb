@@ -14,7 +14,7 @@ The system allows users to create an account, log in, and receive personalized s
 
 ## Technologies Used
 - Java (Servlets & JDBC)
-- HTML / CSS
+- HTML
 - MySQL
 - NetBeans IDE
 - Apache Tomcat
