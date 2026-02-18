@@ -27,6 +27,11 @@ This project includes:
 
 The project does not include performance testing, security penetration testing, payment systems, or external API integration.
 
+## System Architecture
+The following diagram illustrates the overall architecture of the GlowGuide system, including the presentation, application, and data layers.
+
+![System Architecture](docs/architecture-diagram.png)
+
 ## Notes
 - This project runs locally and is not deployed online.
 - Database credentials are not included for security reasons.
